@@ -1,2 +1,2 @@
-# Machine-Learning
-Machine Learning Project 1
+# God's Eye
+Machine Learning Fall 2019 Project 1
